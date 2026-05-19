@@ -1,6 +1,6 @@
 namespace Gestion_Itv.Models;
 
-public enum TipoVh
+public enum TipoMotor
 {
     Diesel,Gasolina,Hibrido,Electrico
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2u4pDBLKCf8=",
+  "dgSpecHash": "KNNP5/1qFZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Erik\\Desktop\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
+  "projectFilePath": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Erik\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Erik\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",

@@ -24,7 +24,6 @@
       <Folder Include="Storage\Csv\" />
       <Folder Include="Storage\Json\" />
       <Folder Include="Storage\Xml\" />
-      <Folder Include="Validator\" />
       <Folder Include="View\" />
     </ItemGroup>
 

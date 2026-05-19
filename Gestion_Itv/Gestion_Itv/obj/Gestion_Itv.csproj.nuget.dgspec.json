@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erik\\Desktop\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {}
+    "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erik\\Desktop\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {
+    "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erik\\Desktop\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
+        "projectUniqueName": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
         "projectName": "Gestion_Itv",
-        "projectPath": "C:\\Users\\Erik\\Desktop\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
+        "projectPath": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
         "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erik\\Desktop\\Gestion_Itv\\Gestion_Itv\\obj\\",
+        "outputPath": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
