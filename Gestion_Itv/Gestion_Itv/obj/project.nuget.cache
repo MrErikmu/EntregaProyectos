@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "KNNP5/1qFZo=",
+  "dgSpecHash": "k4Oo0r690TY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
+  "projectFilePath": "C:\\Users\\Neolix\\Desktop\\EntregaProyectos-Dev\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Erik\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
-    "C:\\Users\\Erik\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",
-    "C:\\Users\\Erik\\.nuget\\packages\\fluentassertions\\8.9.0\\fluentassertions.8.9.0.nupkg.sha512",
-    "C:\\Users\\Erik\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
-    "C:\\Users\\Erik\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
-    "C:\\Users\\Erik\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
-    "C:\\Users\\Erik\\.nuget\\packages\\serilog.sinks.file\\8.0.0-nblumhardt-02322\\serilog.sinks.file.8.0.0-nblumhardt-02322.nupkg.sha512"
+    "C:\\Users\\Neolix\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Neolix\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",
+    "C:\\Users\\Neolix\\.nuget\\packages\\fluentassertions\\8.9.0\\fluentassertions.8.9.0.nupkg.sha512",
+    "C:\\Users\\Neolix\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\Neolix\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
+    "C:\\Users\\Neolix\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\Neolix\\.nuget\\packages\\serilog.sinks.file\\8.0.0-nblumhardt-02322\\serilog.sinks.file.8.0.0-nblumhardt-02322.nupkg.sha512"
   ],
   "logs": []
 }

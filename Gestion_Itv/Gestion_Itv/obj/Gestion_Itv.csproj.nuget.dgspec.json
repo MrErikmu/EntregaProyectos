@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {}
+    "C:\\Users\\Neolix\\Desktop\\EntregaProyectos-Dev\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {
+    "C:\\Users\\Neolix\\Desktop\\EntregaProyectos-Dev\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
+        "projectUniqueName": "C:\\Users\\Neolix\\Desktop\\EntregaProyectos-Dev\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
         "projectName": "Gestion_Itv",
-        "projectPath": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
-        "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erik\\Programacion\\EntregaProyectos\\Gestion_Itv\\Gestion_Itv\\obj\\",
+        "projectPath": "C:\\Users\\Neolix\\Desktop\\EntregaProyectos-Dev\\Gestion_Itv\\Gestion_Itv\\Gestion_Itv.csproj",
+        "packagesPath": "C:\\Users\\Neolix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neolix\\Desktop\\EntregaProyectos-Dev\\Gestion_Itv\\Gestion_Itv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Neolix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0-windows"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0-windows7.0": {
@@ -88,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
